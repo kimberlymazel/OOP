@@ -13,8 +13,7 @@ public class coefficient {
        
         Scanner value = new Scanner(System.in); // new scanner object to take in values
 
-        // declaring the aval first so it can be used outside the while loo
-        
+        // declaring the aval first so it can be used outside the while loop
         double aval = 0.0;
         
         // while loop for if a is 0 (doesn't accept)
